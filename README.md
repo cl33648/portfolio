@@ -1,8 +1,8 @@
-#Portfolio Website 
+# Portfolio Website 
 
 This portfolio website is built with React & EmailJS, hosted on Netlify.
 
-##Head to my portfolio website
+## Head to my portfolio website
 
 https://conrad-lee.netlify.app/
 
