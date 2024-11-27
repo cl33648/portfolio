@@ -6,4 +6,4 @@ This portfolio website is built with React & EmailJS, hosted on Netlify.
 
 https://conrad-lee.netlify.app/
 
-<img src="src/assets/portfolio-website.png" alt="Conrad Lee's Portfolio Website" width="300" />
+<img src="src/assets/portfolio-website.png" alt="Conrad Lee's Portfolio Website" width="800" />
