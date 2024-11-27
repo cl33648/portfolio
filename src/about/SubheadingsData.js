@@ -43,7 +43,7 @@ const SubheadingsData = {
                     <div className="p-container">
                         <p>American Airlines</p>
                         <p>Developed Spring Java backend and maintained 24/7 operation of Retrieve Reservation Service, the vital service responsible for delivering the airline's customer reservation information.</p>
-                        <p>Developed aa.com's customer-reservation-page for unaccompanied minor reservations, utilizing Angular/Javascript.</p>
+                        <p>Developed aa.com's view-reservation-page for unaccompanied minor reservations, utilizing Angular/Javascript.</p>
                         <p>Bridged the gap with the airline business requirements, by consistently delivering reliable software enhancements and bug fixes.</p>
                         <p>Coordinated IBM Cloud's Kubernetes components and pods, which serve 25 million+ traffic daily.</p>
                         <p>Monitored Dynatrace & Apigee dashboards for Retrieve Reservation Service's response times, failure rates, resource consumptions, and more.</p>
